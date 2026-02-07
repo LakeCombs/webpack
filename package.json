@@ -28,7 +28,7 @@
     "eslint-plugin-import": "^2.25.2",
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "install": "^0.13.0",
-    "webpack": "^5.59.1",
+    "webpack": "^5.105.0",
     "webpack-cli": "^4.9.1",
     "webpack-dev-server": "^4.3.1"
   },
